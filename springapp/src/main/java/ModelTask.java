@@ -47,7 +47,7 @@ public class ModelTask {
         return houseno;
     }
     public void setHouseno(String houseno) {
-        this.houseno = taskStatus;
+        this.houseno = houseno;
     }
    
 
